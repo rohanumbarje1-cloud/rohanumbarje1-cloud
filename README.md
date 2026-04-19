@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rohan 👋
 
-<!--
-**rohanumbarje1-cloud/rohanumbarje1-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student  
+📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+## Skills
+- Python, SQL  
+- Excel, Power BI  
+- Pandas, NumPy  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Traffic Congestion Prediction using Deep Learning  
+🔹 Water Quality Index Analysis (India)  
+
+I am passionate about working with data, building projects, and learning new technologies.
